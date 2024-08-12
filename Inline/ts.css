@@ -1,0 +1,31 @@
+html{
+    height: 150vh;
+    background-color: azure;
+}
+h1{
+    font-size: 44pt;
+    display: inline-block;
+    height: 200px;
+    width: 500px;
+}
+h2{
+    font-size: 30pt;
+    color: blueviolet;
+}
+.display{
+    width: 300px;
+    float: left;
+}
+.content{
+    display: flex;
+}
+.display1{
+    float: left;
+}
+.semi2{
+    margin-left: 10px;
+    margin-right: 80px;
+}
+.grass1{
+    margin-left: 10px;
+}
